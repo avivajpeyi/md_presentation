@@ -1,8 +1,8 @@
 ---
-author: Jonathan Soma
-title: Two Deep Learning Papers
-subtitle: Robustness and Security in ML Systems, Spring 2021
-date: January 19, 2021
+author: Avi Vajpeyi
+title: Template
+subtitle: Template, Spring 2021
+date: January XX 20XX
 ---
 
 ## Handwritten Digit Recognition with a Back-Propagation Network, 1990

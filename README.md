@@ -35,6 +35,6 @@ Chief AI Scientist (and several other titles) at Facebook, "founding father of c
 
 How to turn handwritten ZIP codes from envelopes into numbers
 
-![Examples of original zipcodes from the testing set](ihttps://media.tenor.com/nBt6RZkFJh8AAAAi/never-gonna.gif)
+![Examples of original zipcodes from the testing set](https://media.tenor.com/nBt6RZkFJh8AAAAi/never-gonna.gif)
 
 ---

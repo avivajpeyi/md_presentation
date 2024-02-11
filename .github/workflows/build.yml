@@ -11,7 +11,7 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             -t revealjs -s
-            -o index.html slides.md
+            -o index.html README.md
             -V revealjs-url=https://unpkg.com/reveal.js/
             -V theme=solarized
             --include-in-header=slides.css

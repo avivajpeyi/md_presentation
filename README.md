@@ -1,7 +1,7 @@
 ---
 author: Avi Vajpeyi
-title: Template
-subtitle: Template, Spring 2021
+title: Slides Template
+subtitle: Reveal JS, Spring 2021
 date: January XX 20XX
 ---
 
@@ -15,7 +15,7 @@ a.k.a. LeCun90c
 
 ## Yann LeCun
 
-![Yann LeCun on Wikipedia](images/lecun.png)
+![Yann LeCun on Wikipedia](https://media.tenor.com/nBt6RZkFJh8AAAAi/never-gonna.gif)
 
 Chief AI Scientist (and several other titles) at Facebook, "founding father of convolutional nets."
 
@@ -25,7 +25,7 @@ Chief AI Scientist (and several other titles) at Facebook, "founding father of c
 
 > All kinds of badly programmed computers thought that "Le" was my middle name. Even the science citation index knew me as "Y. L. Cun", which is one of the reasons I now spell my name "LeCun".
 >
-> From Yann's [Fun Stuff](http://yann.lecun.com/ex/fun/) page
+> From Yann's [Fun Stuff](https://media.tenor.com/nBt6RZkFJh8AAAAi/never-gonna.gif) page
 >
 > Also: [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
@@ -35,6 +35,6 @@ Chief AI Scientist (and several other titles) at Facebook, "founding father of c
 
 How to turn handwritten ZIP codes from envelopes into numbers
 
-![Examples of original zipcodes from the testing set](images/original.png)
+![Examples of original zipcodes from the testing set](ihttps://media.tenor.com/nBt6RZkFJh8AAAAi/never-gonna.gif)
 
 ---

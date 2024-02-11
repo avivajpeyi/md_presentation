@@ -6,11 +6,11 @@ jobs:
   build_slides:
     runs-on: ubuntu-22.04
     steps:
-      - uses: docker://pandoc/core:2.9
+      - uses: docker://pandoc/core:3.1
         with:
           args: >-  # allows you to break string into multiple lines
             -t revealjs -s
             -o index.html slides.md
             -V revealjs-url=https://unpkg.com/reveal.js/
-            --include-in-header=slides.css
+            # --include-in-header=slides.css
             -V theme=solarized
